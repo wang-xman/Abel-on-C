@@ -1,0 +1,8 @@
+{
+    "number": 1e-6,
+    "list": ["Hello", 4.0],
+    "dict": {
+        "k1": "Boterham",
+        "k2": "Eindhoven"
+    }
+}

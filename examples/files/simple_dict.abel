@@ -1,0 +1,7 @@
+# Simple dictionary
+{
+    "num": 10, # double type
+
+# next key is a string
+    "str": "Halo"
+}

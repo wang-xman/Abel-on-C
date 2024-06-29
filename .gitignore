@@ -1,0 +1,9 @@
+/.vscode
+.vscode/
+build/
+/build
+*.a
+*.o
+*.out
+*.out.*/
+unittest.o
